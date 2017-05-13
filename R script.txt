@@ -1,0 +1,43 @@
+setwd("C:\\Mydata");
+data <- read.csv("rankings.csv") 
+attach(data);
+data
+
+# Linear Regression Model published authors on field of material science
+
+
+setwd("C:\\Mydata")
+data <- read.csv("topscientists.csv")
+attach(data);
+summary(data);
+
+
+mod1 <-lm(T~F);
+summary(mod1);
+
+ mod1 <-lm(T~F);
+> summary(data);
+  Material.Scientists       T              F        Date  
+ D Boikanyo : 2       Min.   :0.00   Min.   :0.00    : 1  
+            : 1       1st Qu.:1.00   1st Qu.:0.00   N: 4  
+ A Benamor  : 1       Median :1.00   Median :0.00   Y:21  
+ AC Bose    : 1       Mean   :0.84   Mean   :0.16         
+ AK Syafuqah: 1       3rd Qu.:1.00   3rd Qu.:0.00         
+ AM Hajar   : 1       Max.   :1.00   Max.   :1.00         
+ (Other)    :19       NA's   :1      NA's   :1            
+> mod1
+
+Call:
+lm(formula = T ~ F)
+
+Coefficients:
+(Intercept)            F  
+          1           -1  
+
+
+#Plots
+
+plot(T~F);
+library(lattice);
+xyplot(Material.Scientists~T);
+
