@@ -1,0 +1,547 @@
+Rank,Title,Type,Issn,SJR,SJR Quartile,H index,Total Docs. (2015),Total Docs. (3years),Total Refs.,Total Cites (3years),Citable Docs. (3years),Cites / Doc. (2years),Ref. / Doc.,Country
+1,Nature Materials,journal,"ISSN 14764660, 14761122",21.395,Q1,313,295,734,8268,18358,536,32.28,28.03,United Kingdom
+2,Nature Nanotechnology,journal,ISSN 17483387,19.832,Q1,203,250,711,6795,15523,532,27.09,27.18,United Kingdom
+3,Annual Review of Condensed Matter Physics,journal,"ISSN 19475454, 19475462",12.989,Q1,30,18,45,1845,718,44,17,102.5,United States
+4,Progress in Materials Science,journal,ISSN 00796425,11.902,Q1,109,26,72,8583,2223,66,30.7,330.12,United Kingdom
+5,Advanced Materials,journal,ISSN 09359648,9.021,Q1,345,1321,2860,47342,50417,2696,18.37,35.84,Germany
+6,Nano Letters,journal,"ISSN 15306992, 15306984",9.006,Q1,341,1273,3234,52480,47024,3174,14.18,41.23,United States
+7,Materials Science and Engineering: R: Reports,journal,ISSN 0927796X,7.616,Q1,107,13,30,4360,702,30,25.83,335.38,Netherlands
+8,ACS Nano,journal,"ISSN 19360851, 1936086X",7.12,Q1,202,1298,3875,64548,51863,3776,13.19,49.73,United States
+9,Materials Today,journal,ISSN 13697021,6.876,Q1,98,106,235,4540,2298,134,16.33,42.83,Netherlands
+10,Nano Today,journal,ISSN 17480132,6.475,Q1,86,73,198,5748,1986,125,13.53,78.74,Netherlands
+11,Advanced Energy Materials,journal,"ISSN 16146840, 16146832",6.411,Q1,86,387,752,21712,10306,713,12.5,56.1,Germany
+12,Annual Review of Materials Research,journal,"ISSN 15454118, 15317331",6.122,Q1,118,20,59,2640,748,59,10.68,132,United States
+13,International Journal of Plasticity,journal,ISSN 07496419,4.694,Q1,98,115,389,6698,2184,371,5.36,58.24,United Kingdom
+14,Journal of Physical Chemistry Letters,journal,ISSN 19487185,4.47,Q1,98,852,2073,35013,16512,1975,8.76,41.1,United States
+15,2D Materials,journal,ISSN 20531583,4.344,Q1,8,128,36,5890,210,36,5.83,46.02,United Kingdom
+16,Materials Horizons,journal,"ISSN 20516347, 20516355",4.279,Q1,17,63,79,4119,681,76,8.96,65.38,United Kingdom
+17,Nano Energy,journal,ISSN 22112855,4.169,Q1,44,465,487,21808,5635,475,10.99,46.9,Netherlands
+18,Cement and Concrete Research,journal,ISSN 00088846,3.826,Q1,124,201,486,9735,2115,477,3.86,48.43,United Kingdom
+19,NPG Asia Materials,journal,"ISSN 18844049, 18844057",3.64,Q1,35,36,151,1341,1097,137,7.16,37.25,United States
+20,MRS Bulletin,journal,ISSN 08837694,3.34,Q1,110,127,427,5541,1959,327,5.62,43.63,United States
+21,Nano Research,journal,"ISSN 19980124, 19980000",3.284,Q1,65,332,420,14561,3005,383,7.85,43.86,China
+22,Progress in Nuclear Magnetic Resonance Spectroscopy,journal,ISSN 00796565,3.031,Q1,80,16,73,3171,510,58,8.9,198.19,Netherlands
+23,Cement and Concrete Composites,journal,ISSN 09589465,3.017,Q1,83,161,452,6176,1833,445,3.83,38.36,United Kingdom
+24,Current Opinion in Solid State and Materials Science,journal,ISSN 13590286,2.975,Q1,92,42,102,2502,698,100,4.89,59.57,United Kingdom
+25,Nanoscale,journal,ISSN 20403364,2.969,Q1,107,2240,4352,114578,34248,4322,7.85,51.15,United Kingdom
+26,Geotextiles and Geomembranes,journal,ISSN 02661144,2.952,Q1,51,61,189,2296,498,173,2.63,37.64,Netherlands
+27,Journal of Materials Chemistry A,journal,ISSN 20507488,2.77,Q1,61,2897,4478,145671,37034,4425,8.37,50.28,United Kingdom
+28,ChemSusChem,journal,"ISSN 1864564X, 18645631",2.649,Q1,88,617,1076,26514,7303,992,6.96,42.97,Germany
+29,ACS applied materials & interfaces,journal,"ISSN 19448252, 19448244",2.381,Q1,90,3373,5541,153763,40257,5495,7.13,45.59,United States
+30,Scripta Materialia,journal,ISSN 13596462,2.375,Q1,138,354,1315,9260,4534,1284,3.32,26.16,United Kingdom
+31,IUCrJ,journal,ISSN 20522525,2.356,Q1,12,81,69,4070,299,58,5.16,50.25,United Kingdom
+32,Solar Energy,journal,ISSN 0038092X,2.063,Q1,107,586,1267,18957,5506,1245,4.12,32.35,United Kingdom
+33,Journal of Membranes Science,journal,ISSN 03767388,2.042,Q1,170,764,2199,33358,12632,2173,5.63,43.66,Netherlands
+34,APL Materials,journal,ISSN 2166532X,1.952,Q1,15,176,265,5866,977,261,3.74,33.33,United States
+35,Corrosion Science,journal,ISSN 0010938X,1.931,Q1,130,528,1434,21470,7781,1381,5.36,40.66,United Kingdom
+36,Aerosol Science and Technology,journal,"ISSN 15217388, 02786826",1.922,Q1,80,125,402,4693,954,399,1.96,37.54,United Kingdom
+37,Materials and Design,journal,ISSN 02641275,1.916,Q1,81,1238,2883,43597,12663,2874,4.38,35.22,Netherlands
+38,"Nanomedicine: Nanotechnology, Biology, and Medicine",journal,"ISSN 15499634, 15499642",1.886,Q1,76,209,500,10198,3166,478,6.08,48.79,United States
+39,"Materials Science & Engineering A: Structural Materials: Properties, Microstructure and Processing",journal,ISSN 09215093,1.803,Q1,162,1118,3835,39270,11219,3730,2.85,35.13,Netherlands
+40,International Journal of Fatigue,journal,ISSN 01421123,1.784,Q1,83,298,751,9069,1973,717,2.72,30.43,United Kingdom
+41,Langmuir,journal,"ISSN 15205827, 07437463",1.75,Q1,262,1586,5892,71468,25054,5830,4.07,45.06,United States
+42,Marine Structures,journal,ISSN 09518339,1.746,Q1,41,59,120,1750,328,119,2.58,29.66,Netherlands
+43,Progress in Solid State Chemistry,journal,ISSN 00796786,1.713,Q1,38,7,27,1568,150,26,6.2,224,United Kingdom
+44,Computers and Structures,journal,ISSN 00457949,1.71,Q1,90,223,522,7882,1527,502,2.89,35.35,United Kingdom
+45,Journal of Aerosol Science,journal,ISSN 00218502,1.702,Q1,85,104,337,3956,807,323,2.35,38.04,United Kingdom
+46,International Journal for Numerical and Analytical Methods in Geomechanics,journal,ISSN 03639061,1.676,Q1,58,111,367,3775,749,350,2.2,34.01,United Kingdom
+47,Environmental Science: Nano,journal,"ISSN 20518161, 20518153",1.675,Q1,11,62,51,3345,289,48,6.02,53.95,United Kingdom
+48,Journal of Materials Chemistry B,journal,ISSN 20507518,1.62,Q1,33,956,1588,49611,8011,1569,5.11,51.89,United Kingdom
+49,Construction and Building Materials,journal,ISSN 09500618,1.606,Q1,81,1314,3323,45506,10307,3242,2.84,34.63,United Kingdom
+50,International Journal of Solids and Structures,journal,ISSN 00207683,1.597,Q1,117,408,1130,13913,2803,1076,2.23,34.1,United Kingdom
+51,International Journal of Pressure Vessels and Piping,journal,ISSN 03080161,1.552,Q1,53,65,285,1680,527,272,1.57,25.85,Netherlands
+52,Desalination,journal,ISSN 00119164,1.549,Q1,111,433,1302,16900,6132,1274,4.55,39.03,Netherlands
+53,"European Journal of Mechanics, A/Solids",journal,ISSN 09977538,1.536,Q1,62,139,358,5789,861,333,2.66,41.65,Netherlands
+54,International Journal of Mechanical Sciences,journal,ISSN 00207403,1.464,Q1,74,288,674,10044,1780,654,2.57,34.88,United Kingdom
+55,Journal of Structural Engineering,journal,ISSN 07339445,1.431,Q1,96,252,613,7052,923,580,1.45,27.98,United States
+56,ACI Materials Journal,journal,ISSN 0889325X,1.43,Q1,60,84,181,2435,270,175,1.19,28.99,United States
+57,NDT and E International,journal,ISSN 09638695,1.427,Q1,59,71,340,1979,874,340,2.22,27.87,United Kingdom
+58,Particle and Particle Systems Characterization,journal,"ISSN 15214117, 09340866",1.426,Q1,32,122,294,6224,1113,290,4.28,51.02,Germany
+59,Engineering Fracture Mechanics,journal,ISSN 00137944,1.423,Q1,85,316,866,12362,1856,770,2.26,39.12,United Kingdom
+60,Nanomedicine,journal,"ISSN 17486963, 17435889",1.421,Q1,66,252,601,16499,2281,514,3.99,65.47,United Kingdom
+61,Journal of Rheology,journal,ISSN 01486055,1.392,Q1,82,63,239,3090,616,221,2.78,49.05,Japan
+62,Biomaterials Science,journal,"ISSN 20474849, 20474830",1.347,Q1,17,142,295,8503,1091,285,3.83,59.88,United Kingdom
+63,Journal of the American Helicopter Society,journal,ISSN 00028711,1.341,Q1,39,48,89,1426,126,89,1.46,29.71,United States
+64,Dental Materials,journal,ISSN 01095641,1.339,Q1,101,210,592,8370,2115,537,3.62,39.86,United States
+65,Science and Technology of Welding and Joining,journal,ISSN 13621718,1.333,Q1,50,89,287,2648,503,283,1.89,29.75,United Kingdom
+66,Materials Science and Engineering C,journal,ISSN 09284931,1.332,Q1,80,701,1844,33236,5596,1830,3.04,47.41,Netherlands
+67,Crystal Growth and Design,journal,"ISSN 15287483, 15287505",1.328,Q1,118,718,2231,34877,9920,2209,4.39,48.58,United States
+68,International Journal of Precision Engineering and Manufacturing - Green Technology,journal,"ISSN 22886206, 21980810",1.316,Q1,7,47,45,1332,133,44,3.02,28.34,South Korea
+69,Mechanics of Materials,journal,ISSN 01676636,1.311,Q1,74,162,389,6105,1011,372,2.75,37.69,Netherlands
+70,Materials Characterization,journal,ISSN 10445803,1.267,Q1,61,373,671,12022,1725,643,2.61,32.23,United States
+71,Methods and Applications in Fluorescence,journal,ISSN 20506120,1.247,Q1,6,0,19,0,54,17,3.18,0,United Kingdom
+72,Microporous and Mesoporous Materials,journal,ISSN 13871811,1.243,Q1,116,509,1724,20673,5838,1639,3.39,40.61,Netherlands
+73,Physica Status Solidi - Rapid Research Letetrs,journal,"ISSN 18626270, 18626254",1.243,Q1,42,135,539,3473,1242,522,2.65,25.73,Germany
+74,Journal of Biophotonics,journal,ISSN 1864063X,1.204,Q1,41,124,284,3840,871,248,3.58,30.97,Germany
+75,Nanotechnology,journal,"ISSN 09574484, 13616528",1.196,Q1,138,949,2821,39295,8476,2756,3.06,41.41,United Kingdom
+76,Fatigue and Fracture of Engineering Materials and Structures,journal,"ISSN 14602695, 8756758X",1.185,Q1,60,133,340,4277,588,319,2.05,32.16,United Kingdom
+77,Acta Crystallographica Section A: Foundations and Advances,journal,ISSN 20532733,1.173,Q1,62,67,184,1861,318,177,1.68,27.78,United Kingdom
+78,Smart Materials and Structures,journal,"ISSN 09641726, 1361665X",1.171,Q1,108,487,1289,16356,3657,1267,2.91,33.59,United Kingdom
+79,Beilstein Journal of Nanotechnology,journal,ISSN 21904286,1.163,Q1,25,225,383,9999,1146,367,3.04,44.44,Germany
+80,Materials and Structures/Materiaux et Constructions,journal,ISSN 13595997,1.136,Q1,52,402,573,6012,809,525,1.29,14.96,Netherlands
+81,Journal of Non-Newtonian Fluid Mechanics,journal,ISSN 03770257,1.134,Q1,77,118,323,4047,662,300,2.08,34.3,Netherlands
+82,Journal of Nuclear Materials,journal,ISSN 00223115,1.133,Q1,102,970,2341,28512,5402,2307,2.27,29.39,Netherlands
+83,CrystEngComm,journal,ISSN 14668033,1.096,Q1,88,1082,3845,54561,14534,3791,3.76,50.43,United Kingdom
+84,Journal of Chemical Thermodynamics,journal,"ISSN 00219614, 10963626",1.095,Q1,62,340,1164,12821,2570,1123,2.16,37.71,United States
+85,Modelling and Simulation in Materials Science and Engineering,journal,"ISSN 1361651X, 09650393",1.091,Q1,54,115,411,5045,691,408,1.6,43.87,United Kingdom
+86,Journal of Raman Spectroscopy,journal,"ISSN 10974555, 03770486",1.075,Q1,80,237,775,6632,1650,734,2.35,27.98,United Kingdom
+87,Journal of Building Physics,journal,ISSN 17442591,1.073,Q1,25,23,75,586,97,67,1.09,25.48,United Kingdom
+88,Nuclear Engineering and Design,journal,ISSN 00295493,1.073,Q1,64,485,1553,11181,1844,1485,1.12,23.05,Netherlands
+89,Additive Manufacturing,journal,ISSN 22148604,1.039,Q1,5,41,14,1593,51,13,3.92,38.85,Netherlands
+90,Computational Materials Science,journal,ISSN 09270256,1.037,Q1,74,633,2008,23972,4449,1961,2.16,37.87,Netherlands
+91,Granular Matter,journal,"ISSN 14345021, 14347636",1.033,Q1,39,51,247,1771,496,237,2.04,34.73,United States
+92,Journal of Heat Transfer,journal,ISSN 00221481,1.024,Q1,91,140,697,3878,1083,671,1.61,27.7,United States
+93,Science and Technology of Advanced Materials,journal,ISSN 14686996,1.003,Q1,54,117,274,7598,750,263,2.92,64.94,United Kingdom
+94,JOM,journal,ISSN 10474838,0.998,Q1,67,406,749,10002,1225,623,1.9,24.64,United States
+95,Journal of Materials in Civil Engineering,journal,ISSN 08991561,0.965,Q1,57,273,682,8175,974,672,1.28,29.95,United States
+96,Journal of Biomedical Nanotechnology,journal,ISSN 15507033,0.956,Q1,49,174,604,9627,2303,602,3.71,55.33,United States
+97,Magazine of Concrete Research,journal,ISSN 00249831,0.955,Q1,36,107,343,3119,411,328,1.29,29.15,United Kingdom
+98,IEEE Access,journal,ISSN 21693536,0.947,Q1,12,234,172,10472,639,171,3.74,44.75,United States
+99,Journal of Advanced Concrete Technology,journal,ISSN 13468014,0.941,Q1,28,42,105,1396,138,105,0.97,33.24,Japan
+100,Journal of Intelligent Material Systems and Structures,journal,ISSN 1045389X,0.937,Q1,76,201,543,6450,1188,524,2.02,32.09,United Kingdom
+101,Mechanics Research Communications,journal,ISSN 00936413,0.937,Q1,43,102,338,2271,548,322,1.52,22.26,United Kingdom
+102,Progress in Crystal Growth and Characterization of Materials,journal,ISSN 09608974,0.933,Q1,35,1,28,128,100,25,5.55,128,United Kingdom
+103,Fire Safety Journal,journal,ISSN 03797112,0.916,Q1,51,102,325,3214,510,314,1.43,31.51,United Kingdom
+104,Corrosion,journal,ISSN 00109312,0.904,Q1,68,125,341,5098,551,320,1.92,40.78,United States
+105,Structural Concrete,journal,ISSN 14644177,0.874,Q1,14,52,125,1239,126,110,1.22,23.83,Germany
+106,Materials,journal,ISSN 19961944,0.873,Q1,48,564,944,24274,2855,934,2.94,43.04,Switzerland
+107,Wood Science and Technology,journal,"ISSN 00437719, 14325225",0.873,Q1,51,78,277,2585,513,270,1.65,33.14,Germany
+108,MRS Communications,journal,"ISSN 21596859, 21596867",0.872,Q1,7,76,72,3078,112,65,1.72,40.5,United States
+109,Rheologica Acta,journal,ISSN 00354511,0.862,Q1,62,74,258,2772,475,234,2.05,37.46,Germany
+110,Solid State Ionics,journal,ISSN 01672738,0.851,Q1,153,340,1161,9417,2799,1117,2.44,27.7,Netherlands
+111,Journal of Elasticity,journal,"ISSN 15732681, 03743535",0.851,Q1,45,53,155,1523,164,144,1.33,28.74,Netherlands
+112,Electrochemical and Solid-State Letters,journal,ISSN 10990062,0.842,Q1,116,0,158,0,348,156,0,0,United States
+113,Journal of Materials Science,journal,"ISSN 00222461, 15734803",0.836,Q1,123,752,2862,30323,6562,2801,2.29,40.32,Netherlands
+114,Microscale Thermophysical Engineering,journal,"ISSN 10893954, 15567265",0.836,Q1,39,17,61,1137,126,60,2.38,66.88,United Kingdom
+115,International Journal of Mechanics and Materials in Design,journal,ISSN 15691713,0.835,Q1,15,52,104,463,140,101,1.32,8.9,Netherlands
+116,Theoretical and Applied Fracture Mechanics,journal,ISSN 01678442,0.835,Q1,40,96,178,3171,350,170,2.19,33.03,Netherlands
+117,Zeitschfrift für Kristallographie,journal,ISSN 00442968,0.827,Q1,53,30,239,1115,490,229,3.03,37.17,Germany
+118,GAMM Mitteilungen,journal,ISSN 09367195,0.826,Q1,8,13,40,749,53,34,2.27,57.62,Germany
+119,Journal of Thermal Stresses,journal,"ISSN 1521074X, 01495739",0.816,Q1,43,77,204,2060,277,202,1.29,26.75,United Kingdom
+120,Journal of Physics Condensed Matter,journal,ISSN 09538984,0.812,Q1,166,824,3171,44231,5152,3091,1.62,53.68,United Kingdom
+121,International Journal of Damage Mechanics,journal,"ISSN 10567895, 15307921",0.811,Q1,28,50,172,1732,231,170,1.22,34.64,United Kingdom
+122,Advanced Engineering Materials,journal,"ISSN 15272648, 14381656",0.81,Q1,81,262,535,7057,921,511,1.66,26.94,Germany
+123,Materials Letters,journal,ISSN 0167577X,0.807,Q1,99,1842,5166,31537,12641,5130,2.43,17.12,Netherlands
+124,Biomicrofluidics,journal,ISSN 19321058,0.794,Q2,31,170,438,7027,1063,428,2.47,41.34,United States
+125,Materials and Manufacturing Processes,journal,"ISSN 15322475, 10426914",0.772,Q2,37,268,637,4868,1026,629,1.53,18.16,United States
+126,Materials Research Bulletin,journal,ISSN 00255408,0.753,Q2,79,655,2350,22110,5589,2337,2.39,33.76,United Kingdom
+127,Membranes,journal,ISSN 20770375,0.74,Q2,14,56,110,3716,313,107,2.12,66.36,Switzerland
+128,Materials Chemistry and Physics,journal,ISSN 02540584,0.733,Q2,104,944,2450,31746,5475,2389,2.12,33.63,Netherlands
+129,Corrosion Reviews,journal,ISSN 03346005,0.727,Q2,21,38,30,1848,62,30,1.3,48.63,Israel
+130,Fusion Engineering and Design,journal,ISSN 09203796,0.725,Q2,54,900,1586,8814,2132,1563,1.37,9.79,Netherlands
+131,Materials Science & Engineering B: Solid-State Materials for Advanced Technology,journal,ISSN 09215107,0.723,Q2,87,132,707,5424,1596,699,2.28,41.09,Netherlands
+132,Current Applied Physics,journal,ISSN 15671739,0.716,Q2,55,275,1177,8555,2490,1156,2.07,31.11,Netherlands
+133,PCI Journal,journal,ISSN 08879672,0.716,Q2,25,48,170,494,57,88,0.49,10.29,United States
+134,International Journal of Applied Mechanics,journal,"ISSN 1758826X, 17588251",0.707,Q2,19,98,174,3559,257,173,1.44,36.32,United States
+135,Advances in Cement Research,journal,ISSN 09517197,0.692,Q2,27,64,123,1756,97,113,0.92,27.44,United Kingdom
+136,Particuology,journal,ISSN 16742001,0.682,Q2,32,157,346,4527,774,320,2.29,28.83,Netherlands
+137,Journal of Wood Chemistry and Technology,journal,"ISSN 02773813, 15322319",0.676,Q2,33,32,83,1025,151,83,1.73,32.03,United States
+138,Journal of Solid State Electrochemistry,journal,ISSN 14328488,0.674,Q2,59,341,1266,10837,2694,1227,2.1,31.78,United States
+139,Handbook on the Physics and Chemistry of Rare Earths,book serie,ISSN 01681273,0.674,Q2,25,3,19,276,45,15,3.46,92,Netherlands
+140,Gold bulletin,journal,ISSN 00171557,0.669,Q2,46,20,103,596,197,91,2.26,29.8,Germany
+141,Materials Science and Technology,journal,ISSN 02670836,0.668,Q2,63,249,708,9285,752,678,1.1,37.29,United Kingdom
+142,JVC/Journal of Vibration and Control,journal,ISSN 10775463,0.667,Q2,43,253,548,7071,626,528,1.1,27.95,United States
+143,Continuum Mechanics and Thermodynamics,journal,"ISSN 09351175, 14320959",0.665,Q2,34,74,174,1333,232,161,1.54,18.01,United States
+144,Journal of Materials Research,journal,ISSN 08842914,0.664,Q2,118,367,1218,13457,1734,1160,1.43,36.67,United States
+145,Science China Technological Sciences,journal,ISSN 16747321,0.658,Q2,25,234,1107,6136,1634,1069,1.56,26.22,Germany
+146,Mathematics and Mechanics of Solids,journal,ISSN 10812865,0.654,Q2,28,70,165,2752,180,159,1.25,39.31,United States
+147,Journal of the Textile Institute,journal,ISSN 00405000,0.649,Q2,27,260,462,3724,509,444,1.1,14.32,United Kingdom
+148,European Physical Journal: Special Topics,journal,"ISSN 19516355, 19516401",0.647,Q2,47,263,770,10090,1250,724,1.6,38.37,Germany
+149,Journal of Physics and Chemistry of Solids,journal,ISSN 00223697,0.639,Q2,83,279,796,10826,1551,777,2.06,38.8,United Kingdom
+150,Comptes Rendus - Mecanique,journal,ISSN 16310721,0.633,Q2,32,63,263,1301,338,250,1.16,20.65,France
+151,International Journal of Applied Glass Science,journal,"ISSN 20411294, 20411286",0.631,Q2,17,48,123,1398,241,113,1.95,29.13,United Kingdom
+152,Physics and Chemistry of Minerals,journal,"ISSN 03421791, 14322021",0.612,Q2,57,69,248,2994,318,234,1.41,43.39,Germany
+153,Liquid Crystals,journal,"ISSN 02678292, 13665855",0.611,Q2,61,207,601,6543,1198,566,2.28,31.61,United Kingdom
+154,Machining Science and Technology,journal,"ISSN 15322483, 10910344",0.61,Q2,34,28,94,983,124,93,1.26,35.11,United States
+155,Solid State Sciences,journal,ISSN 12932558,0.608,Q2,64,184,744,6515,1387,740,1.95,35.41,Netherlands
+156,Superlattices and Microstructures,journal,"ISSN 07496036, 10963677",0.597,Q2,50,575,969,18313,2089,965,2.1,31.85,United States
+157,Biointerphases,journal,"ISSN 15594106, 19348630",0.586,Q2,26,97,221,4633,356,213,1.22,47.76,United States
+158,Journal of Nanoparticle Research,journal,"ISSN 1572896X, 13880764",0.583,Q2,84,493,2148,20859,4128,2086,1.75,42.31,Netherlands
+159,Crystals,journal,ISSN 20734352,0.579,Q2,12,53,162,2046,230,157,2.21,38.6,Switzerland
+160,Materials Science in Semiconductor Processing,journal,ISSN 13698001,0.577,Q2,38,753,955,26321,2044,938,2.22,34.95,United Kingdom
+161,Journal of Industrial Textiles,journal,ISSN 15280837,0.566,Q2,23,53,114,1614,146,113,1.18,30.45,United Kingdom
+162,European Physical Journal E,journal,"ISSN 12928941, 1292895X",0.556,Q2,69,146,426,5863,458,416,0.93,40.16,United States
+163,European Journal of Wood and Wood Products/Holz als Roh - und Werkstoff,journal,"ISSN 1436736X, 00183768",0.556,Q2,40,97,363,2145,354,351,0.97,22.11,Germany
+164,Reviews on Advanced Materials Science,journal,"ISSN 16065131, 16058127",0.547,Q2,37,55,229,3252,354,228,1.33,59.13,Russian Federation
+165,Journal of Materials Engineering and Performance,journal,"ISSN 15441024, 10599495",0.544,Q2,40,497,1435,13733,1687,1401,1.17,27.63,United States
+166,Nanoscale Research Letters,journal,"ISSN 1556276X, 19317573",0.538,Q2,53,498,1857,17765,3045,1847,1.51,35.67,United States
+167,Molecular Simulation,journal,"ISSN 10290435, 08927022",0.535,Q2,40,197,396,7539,513,384,1.53,38.27,United Kingdom
+168,Applied Physics A: Materials Science and Processing,journal,"ISSN 14320630, 09478396",0.535,Q2,121,580,2364,16279,3075,2291,1.23,28.07,Germany
+169,Journal of Low Temperature Physics,journal,"ISSN 15737357, 00222291",0.531,Q2,52,155,804,2732,625,787,0.82,17.63,United States
+170,Materials Today: Proceedings,conference and proceeding,ISSN 22147853,0.529,-,2,732,27,13012,21,25,0.84,17.78,United Kingdom
+171,Packaging Technology and Science,journal,"ISSN 10991522, 08943214",0.529,Q2,35,74,166,2648,272,163,1.43,35.78,United Kingdom
+172,Materiales de Construccion,journal,ISSN 04652746,0.523,Q2,19,35,127,1226,96,108,0.89,35.03,Spain
+173,Bragantia,journal,ISSN 00068705,0.522,Q2,20,62,190,1628,125,185,0.63,26.26,Brazil
+174,Mechanics of Advanced Materials and Structures,journal,"ISSN 15376532, 15376494",0.519,Q2,32,83,212,2602,184,207,0.89,31.35,United Kingdom
+175,Materials Transactions,journal,"ISSN 09161821, 13459678, 13475320",0.517,Q2,80,344,1135,7703,882,1109,0.74,22.39,Japan
+176,Cryogenics,journal,ISSN 00112275,0.511,Q2,42,82,401,1985,401,337,1.15,24.21,United Kingdom
+177,Clothing and Textiles Research Journal,journal,ISSN 0887302X,0.509,Q2,23,22,62,839,67,60,0.85,38.14,United States
+178,International Journal of Material Forming,journal,"ISSN 19606206, 19606214",0.504,Q2,17,94,145,873,137,134,0.92,9.29,France
+179,Fibres and Textiles in Eastern Europe,journal,ISSN 12303666,0.493,Q2,24,123,399,2781,279,390,0.64,22.61,Poland
+180,Ionics,journal,ISSN 09477047,0.486,Q2,36,361,627,11236,1129,618,1.8,31.12,Germany
+181,Journal of Thermal Science and Engineering Applications,journal,ISSN 19485085,0.483,Q2,9,34,154,949,117,152,0.83,27.91,United States
+182,Mechanics of Time-Dependent Materials,journal,ISSN 13852000,0.482,Q2,33,30,110,896,133,107,1.28,29.87,Netherlands
+183,Advanced Materials Letters,journal,"ISSN 09763961, 0976397X",0.48,Q2,20,150,387,4801,574,355,1.43,32.01,India
+184,Polymer - Plastics Technology and Engineering,journal,"ISSN 03602559, 15256111",0.477,Q2,36,175,657,8191,969,655,1.52,46.81,United States
+185,Materials Express,journal,"ISSN 21585857, 21585849",0.474,Q2,12,67,157,2549,285,154,1.57,38.04,United States
+186,Research in Nondestructive Evaluation,journal,"ISSN 09349847, 14322110",0.474,Q2,23,14,42,369,43,42,1.14,26.36,Germany
+187,Journal of Micro-Nano Mechatronics,journal,"ISSN 18653928, 18653936",0.472,Q2,8,0,23,0,31,22,2.1,0,Germany
+188,Journal of Porous Media,journal,ISSN 1091028X,0.47,Q2,24,92,258,2867,259,258,1.1,31.16,United States
+189,Fire Technology,journal,"ISSN 00152684, 15728099",0.469,Q2,23,83,230,1153,166,209,0.68,13.89,Netherlands
+190,Tappi Journal,journal,ISSN 07341415,0.467,Q2,38,64,167,1450,125,165,0.72,22.66,United States
+191,International Journal of Smart and Nano Materials,journal,"ISSN 19475411, 1947542X",0.465,Q2,9,17,67,771,93,66,1.48,45.35,United Kingdom
+192,Crystallography Reviews,journal,ISSN 0889311X,0.465,Q2,22,12,39,1222,27,25,1.53,101.83,United Kingdom
+193,Nondestructive Testing and Evaluation,journal,ISSN 10589759,0.444,Q2,18,36,86,689,91,81,0.73,19.14,United Kingdom
+194,Journal of Superhard Materials,journal,"ISSN 19349408, 10634576",0.441,Q2,12,57,159,1045,89,156,0.49,18.33,United States
+195,Soldering and Surface Mount Technology,journal,ISSN 09540911,0.44,Q2,24,26,76,612,91,73,1.22,23.54,United Kingdom
+196,Journal of Thermal Science and Technology,journal,ISSN 18805566,0.431,Q2,8,28,112,718,98,107,0.82,25.64,Japan
+197,Frontiers of Materials Science,journal,ISSN 2095025X,0.429,Q2,14,45,124,1609,179,116,1.5,35.76,China
+198,Science of Advanced Materials,journal,"ISSN 19472935, 19472943",0.427,Q2,25,257,802,9267,1277,796,1.59,36.06,United States
+199,Coloration Technology,journal,ISSN 14723581,0.426,Q2,38,62,193,1606,236,186,1.27,25.9,United Kingdom
+200,Fusion Science and Technology,journal,ISSN 15361055,0.426,Q2,37,256,497,3456,302,482,0.73,13.5,United States
+201,Wood Material Science and Engineering,journal,"ISSN 17480272, 17480280",0.426,Q2,10,56,101,1093,58,75,1.05,19.52,United Kingdom
+202,Recent Patents on Nanotechnology,journal,ISSN 18722105,0.425,Q2,19,23,60,1155,100,55,1.45,50.22,Netherlands
+203,Journal of Cluster Science,journal,"ISSN 15728862, 10407278",0.416,Q2,31,150,342,5488,435,327,1.37,36.59,United States
+204,ZKG International,journal,ISSN 09490205,0.414,Q2,12,44,184,365,35,184,0.2,8.3,Germany
+205,Magnetic Resonance in Chemistry,journal,"ISSN 07491581, 1097458X",0.413,Q2,58,224,423,5312,583,368,1.63,23.71,United Kingdom
+206,Soft Materials,journal,ISSN 1539445X,0.413,Q2,15,32,139,1091,180,136,1.35,34.09,United States
+207,Iranian Journal of Materials Science and Engineering,journal,ISSN 17350808,0.405,Q2,7,41,91,940,51,91,0.42,22.93,Iran
+208,Journal of Porous Materials,journal,"ISSN 15734854, 13802224",0.405,Q2,40,155,459,5637,583,451,1.26,36.37,Netherlands
+209,Latin American Journal of Solids and Structures,journal,"ISSN 16797817, 16797825",0.402,Q2,15,118,254,3612,241,249,0.98,30.61,Brazil
+210,Functional Materials Letters,journal,"ISSN 17937213, 17936047",0.392,Q2,19,99,255,2373,266,248,1.08,23.97,Singapore
+211,Maderas: Ciencia y Tecnologia,journal,"ISSN 07173644, 0718221X",0.39,Q2,13,62,103,1773,92,100,0.83,28.6,Chile
+212,Journal of Nanomaterials,journal,"ISSN 16874110, 16874129",0.383,Q2,24,829,1692,28209,2059,1619,1.15,34.03,United States
+213,Korea Australia Rheology Journal,journal,ISSN 1226119X,0.381,Q2,18,31,109,906,101,108,1.06,29.23,South Korea
+214,Kerntechnik,journal,ISSN 09323902,0.379,Q2,15,76,217,1209,60,209,0.27,15.91,Germany
+215,"Journal of Engineering Materials and Technology, Transactions of the ASME",journal,"ISSN 00944289, 15288889",0.379,Q2,51,23,140,597,110,135,0.78,25.96,United States
+216,Bulletin of Materials Science,journal,ISSN 02504707,0.377,Q2,50,251,587,7534,641,587,0.9,30.02,India
+217,Journal of Cotton Science,journal,"ISSN 15236919, 15243303",0.376,Q2,29,59,128,1848,146,124,0.93,31.32,United States
+218,Journal of Engineered Fibers and Fabrics,journal,ISSN 15589250,0.374,Q2,14,60,220,1482,200,220,0.63,24.7,United States
+219,Nordic Pulp and Paper Research Journal,journal,ISSN 02832631,0.373,Q2,40,82,241,2718,212,241,0.72,33.15,Sweden
+220,Journal of Information Display,journal,"ISSN 15980316, 21581606",0.372,Q2,8,30,85,610,79,83,1.07,20.33,South Korea
+221,Crystal Research and Technology,journal,"ISSN 02321300, 15214079",0.372,Q2,50,133,420,3389,389,406,0.86,25.48,Germany
+222,Indian Journal of Fibre and Textile Research,journal,ISSN 09710426,0.37,Q2,25,68,189,1205,139,189,0.52,17.72,India
+223,"Cement, Wapno, Beton",journal,ISSN 14258129,0.369,Q2,9,25,128,521,72,125,0.6,20.84,Poland
+224,Corrosion Engineering Science and Technology,journal,ISSN 1478422X,0.364,Q2,30,63,258,1926,232,250,0.76,30.57,United Kingdom
+225,Tekstil ve Konfeksiyon,journal,ISSN 13003356,0.361,Q2,7,53,177,1077,73,166,0.31,20.32,Turkey
+226,Physical Mesomechanics,journal,ISSN 10299599,0.359,Q2,13,42,111,1358,141,111,1.25,32.33,United States
+227,Journal of Nanoscience and Nanotechnology,journal,ISSN 15334880,0.358,Q2,79,1434,4294,45651,5245,4263,1.29,31.83,United States
+228,Journal of the American Leather Chemists Association,journal,ISSN 00029726,0.357,Q2,25,47,138,862,89,133,0.69,18.34,United States
+229,International Wood Products Journal,journal,"ISSN 20426453, 20426445",0.356,Q2,10,23,90,559,44,86,0.57,24.3,United Kingdom
+230,Journal of Testing and Evaluation,journal,ISSN 00903973,0.353,Q2,25,159,427,4227,186,425,0.35,26.58,United States
+231,International Journal of Photoenergy,journal,"ISSN 1110662X, 1687529X",0.348,Q2,28,175,956,5475,932,920,0.9,31.29,United States
+232,Advances in Natural Sciences: Nanoscience and Nanotechnology,journal,ISSN 20436262,0.344,Q2,14,65,235,2009,297,234,1.18,30.91,United Kingdom
+233,KONA Powder and Particle Journal,journal,"ISSN 02884534, 21875537",0.34,Q2,23,22,44,1198,69,42,2.7,54.45,Japan
+234,Tamkang Journal of Mathematics,journal,ISSN 00492930,0.338,Q2,9,29,135,557,51,135,0.39,19.21,Taiwan
+235,Xinxing Tan Cailiao/New Carbon Materials,journal,ISSN 10078827,0.335,Q2,23,78,215,2213,244,215,1.07,28.37,China
+236,Forest Products Journal,journal,ISSN 00157473,0.332,Q2,37,63,168,1531,115,163,0.48,24.3,United States
+237,Materials Research,journal,ISSN 15161439,0.328,Q2,24,264,599,7161,555,595,0.92,27.13,Brazil
+238,"Environmental Nanotechnology, Monitoring and Management",journal,ISSN 22151532,0.326,Q2,2,21,7,966,13,6,2.17,46,Netherlands
+239,Wood and Fiber Science,journal,ISSN 07356161,0.324,Q2,36,41,154,1162,103,147,0.72,28.34,United States
+240,Journal of Natural Fibers,journal,"ISSN 15440478, 1544046X",0.324,Q2,11,51,76,1365,53,76,0.55,26.76,United States
+241,Journal of Aerospace Engineering,journal,ISSN 08931321,0.324,Q2,33,108,265,3091,210,256,0.77,28.62,United States
+242,Materials Technology,journal,ISSN 10667857,0.323,Q2,19,117,251,3520,249,240,1.27,30.09,United Kingdom
+243,Journal of Computational and Theoretical Nanoscience,journal,"ISSN 15461955, 15461963",0.318,Q2,34,594,1168,18811,1843,1161,1.91,31.67,United States
+244,Materials Evaluation,journal,ISSN 00255327,0.312,Q2,26,41,142,633,62,141,0.43,15.44,United States
+245,Textile Progress,journal,ISSN 00405167,0.312,Q2,14,3,12,1048,21,12,1.25,349.33,United Kingdom
+246,Mechanics and Industry,journal,"ISSN 22577777, 22577750",0.31,Q2,6,70,160,1469,118,157,0.7,20.99,United Kingdom
+247,Autex Research Journal,journal,ISSN 14709589,0.307,Q2,21,36,77,810,38,77,0.44,22.5,Poland
+248,Case Studies in Construction Materials,journal,ISSN 22145095,0.306,Q3,2,22,19,393,18,19,0.95,17.86,United Kingdom
+249,Nihon Reoroji Gakkaishi,journal,ISSN 03871533,0.305,Q3,12,40,104,823,33,98,0.38,20.58,Japan
+250,International Journal of Self-Propagating High-Temperature Synthesis,journal,"ISSN 10613862, 1934788X",0.304,Q3,5,46,123,687,69,123,0.54,14.93,United States
+251,International Journal of Energetic Materials and Chemical Propulsion,journal,ISSN 2150766X,0.304,Q3,7,29,94,744,44,94,0.33,25.66,United States
+252,Revista Escola de Minas,journal,ISSN 03704467,0.303,Q3,9,57,199,970,47,185,0.27,17.02,Brazil
+253,International Journal of Aeronautical and Space Sciences,journal,"ISSN 20932480, 2093274X",0.295,Q3,9,52,135,1243,112,135,0.71,23.9,South Korea
+254,Crystallography Reports,journal,"ISSN 10637745, 1562689X",0.294,Q3,24,183,485,3901,240,484,0.46,21.32,Russian Federation
+255,Archives of Materials Science and Engineering,journal,ISSN 18972764,0.294,Q3,14,63,209,2007,126,203,0.61,31.86,Poland
+256,PNRPU Mechanics Bulletin,journal,"ISSN 22261869, 22249893",0.292,Q3,3,52,92,1466,27,92,0.29,28.19,Russian Federation
+257,Nanoscience and Nanotechnology Letters,journal,"ISSN 19414900, 19414919",0.292,Q3,16,134,612,4083,592,598,0.88,30.47,United States
+258,Frontiers in Heat and Mass Transfer,journal,ISSN 21518629,0.291,Q3,8,21,57,572,35,56,0.5,27.24,United States
+259,Phase Transitions,journal,"ISSN 01411594, 10290338",0.29,Q3,32,150,342,3282,278,326,0.8,21.88,United Kingdom
+260,The Mechanism of Concussion in Sports,conference and proceeding,-,0.288,-,3,0,19,0,9,17,0.53,0,United States
+261,Chinese Space Science and Technology,journal,ISSN 1000758X,0.288,Q3,8,53,207,658,61,207,0.27,12.42,China
+262,Micro and Nano Letters,journal,ISSN 17500443,0.286,Q3,19,165,785,3685,608,772,0.68,22.33,United Kingdom
+263,"Tribology - Materials, Surfaces and Interfaces",journal,"ISSN 17515831, 1751584X",0.284,Q3,6,26,89,668,44,85,0.48,25.69,United Kingdom
+264,Journal of Nanotechnology,journal,"ISSN 16879503, 16879511",0.283,Q3,9,32,172,1249,165,163,1.11,39.03,Egypt
+265,Heron,journal,ISSN 00467316,0.282,Q3,15,0,27,0,12,26,0.08,0,Netherlands
+266,Northern Journal of Applied Forestry,journal,ISSN 07426348,0.282,Q3,23,0,51,0,29,50,0.56,0,United States
+267,Journal of Fiber Bioengineering and Informatics,journal,ISSN 19408676,0.279,Q3,6,80,135,1370,76,135,0.51,17.13,China
+268,International Journal of Clothing Science and Technology,journal,ISSN 09556222,0.279,Q3,25,62,96,1565,57,96,0.62,25.24,United Kingdom
+269,Digest Journal of Nanomaterials and Biostructures,journal,ISSN 18423582,0.277,Q3,25,145,566,4502,510,566,0.72,31.05,Romania
+270,Powder Diffraction,journal,ISSN 08857156,0.272,Q3,28,110,298,1918,155,275,0.62,17.44,United States
+271,Industria Textila,journal,ISSN 12225347,0.272,Q3,7,18,155,340,45,155,0.31,18.89,Romania
+272,Nano,journal,ISSN 17932920,0.271,Q3,17,129,255,4740,187,247,0.68,36.74,Singapore
+273,Cailiao Rechuli Xuebao/Transactions of Materials and Heat Treatment,journal,ISSN 10096264,0.271,Q3,14,601,1504,8797,735,1504,0.49,14.64,China
+274,International Journal of Materials and Structural Integrity,journal,"ISSN 17450063, 17450055",0.268,Q3,8,20,60,476,29,58,0.38,23.8,United Kingdom
+275,Fullerenes Nanotubes and Carbon Nanostructures,journal,"ISSN 1536383X, 15364046",0.266,Q3,33,143,274,4179,370,272,1.6,29.22,United States
+276,Hanneng Cailiao/Energetic Materials,journal,ISSN 10069941,0.266,Q3,14,227,503,4121,252,493,0.46,18.15,China
+277,Advances in Materials Science and Engineering,journal,"ISSN 16878434, 16878442",0.263,Q3,11,440,740,11694,532,717,0.72,26.58,United States
+278,Russian Journal of Nondestructive Testing,journal,"ISSN 16083385, 10618309",0.262,Q3,11,92,270,1380,106,269,0.43,15,Russian Federation
+279,Proceedings of Institution of Civil Engineers: Construction Materials,journal,"ISSN 17476518, 1747650X",0.262,Q3,9,33,116,801,50,99,0.44,24.27,United Kingdom
+280,Proceedings of the International Symposium on Superalloys,conference and proceeding,-,0.262,-,13,0,102,0,31,100,0,0,United States
+281,Journal of Failure Analysis and Prevention,journal,ISSN 15477029,0.261,Q3,15,101,300,1394,115,272,0.36,13.8,United States
+282,Frontiers of Nanoscience,book serie,ISSN 18762778,0.26,Q3,4,10,45,934,35,41,0.79,93.4,United Kingdom
+283,Applied Rheology,journal,"ISSN 16178106, 14306395",0.259,Q3,21,28,85,1026,51,82,0.75,36.64,Germany
+284,Wood Research,journal,ISSN 13364561,0.255,Q3,11,97,193,2397,92,192,0.49,24.71,Slovakia
+285,Chiang Mai Journal of Science,journal,ISSN 01252526,0.254,Q3,12,99,310,2558,150,300,0.45,25.84,Thailand
+286,Fluid Dynamics and Materials Processing,journal,"ISSN 1555256X, 15552578",0.252,Q3,11,17,71,386,27,71,0.34,22.71,United States
+287,Materialwissenschaft und Werkstofftechnik,journal,"ISSN 15214052, 09335137",0.25,Q3,27,111,399,2112,180,379,0.51,19.03,Germany
+288,Functional Materials,journal,"ISSN 10275495, 22182993",0.248,Q3,7,65,283,1175,99,264,0.4,18.08,Ukraine
+289,International Journal of Microstructure and Materials Properties,journal,"ISSN 17418410, 17418429",0.244,Q3,8,30,111,547,50,106,0.51,18.23,United Kingdom
+290,Materials Performance,journal,ISSN 00941492,0.244,Q3,20,132,303,574,31,260,0.11,4.35,United States
+291,Revista Romana de Materiale/ Romanian Journal of Materials,journal,ISSN 15833186,0.243,Q3,7,51,148,1062,74,147,0.59,20.82,Romania
+292,Contemporary Engineering Sciences,journal,"ISSN 13147641, 13136569",0.24,Q3,5,185,218,2174,104,218,0.48,11.75,Bulgaria
+293,Noise and Vibration Worldwide,journal,ISSN 09574565,0.24,Q3,10,20,56,256,17,53,0.24,12.8,United Kingdom
+294,Journal of the Society of Leather Technologies and Chemists,journal,ISSN 01440322,0.237,Q3,21,46,120,1026,36,114,0.29,22.3,United Kingdom
+295,Zhonggua Xitu Xuabao / Journal of the Chinese Rare Earth Society,journal,ISSN 10004343,0.236,Q3,8,103,318,2201,196,318,0.79,21.37,China
+296,"American Concrete Institute, ACI Special Publication",conference and proceeding,"ISSN 01932527, 1932527",0.236,-,6,29,173,795,18,153,0,27.41,United States
+297,Journal of Nanotechnology in Engineering and Medicine,journal,"ISSN 19492944, 19492952",0.234,Q3,10,21,90,732,56,85,0.51,34.86,United States
+298,Problems of Atomic Science and Technology,journal,ISSN 16829344,0.233,Q3,7,280,883,3158,206,881,0.29,11.28,Ukraine
+299,Advanced Materials and Processes,journal,ISSN 08827958,0.231,Q3,25,21,152,141,87,152,0.42,6.71,United States
+300,Engineering for Rural Development,conference and proceeding,ISSN 16913043,0.229,-,5,136,343,1752,89,340,0.26,12.88,Latvia
+301,Radiation Effects and Defects in Solids,journal,ISSN 10420150,0.229,Q3,23,96,340,2382,151,334,0.44,24.81,United States
+302,Materialpruefung/Materials Testing,journal,ISSN 00255300,0.228,Q3,12,126,374,2686,130,374,0.3,21.32,Germany
+303,Palpu Chongi Gisul/Journal of Korea Technical Association of the Pulp and Paper Industry,journal,ISSN 02533200,0.227,Q3,8,88,183,1319,100,183,0.45,14.99,South Korea
+304,Leonardo Journal of Practices and Technologies,journal,ISSN 15831078,0.226,Q3,8,32,73,611,38,73,0.58,19.09,Romania
+305,Materials Science,journal,"ISSN 20831331, 01371339",0.226,Q3,18,107,284,2536,133,230,0.54,23.7,Poland
+306,Indian Concrete Journal,journal,ISSN 00194565,0.225,Q3,14,97,196,1442,35,196,0.17,14.87,India
+307,Journal of Vibroengineering,journal,ISSN 13928716,0.225,Q3,15,286,781,5916,374,780,0.46,20.69,Lithuania
+308,Molecular Crystals and Liquid Crystals,journal,"ISSN 15421406, 15435318",0.225,Q3,28,446,1174,9811,622,1162,0.55,22,United Kingdom
+309,Materials Science,journal,"ISSN 1068820X, 1573885X",0.224,Q3,14,96,351,1304,57,351,0.11,13.58,United States
+310,Chongqing Daxue Xuebao/Journal of Chongqing University,journal,ISSN 1000582X,0.222,Q3,10,113,719,1850,151,719,0.17,16.37,China
+311,"Journal Wuhan University of Technology, Materials Science Edition",journal,ISSN 10002413,0.222,Q3,15,230,692,4858,283,692,0.39,21.12,China
+312,"Proceedings of the Institution of Mechanical Engineers, Part L: Journal of Materials: Design and Applications",journal,ISSN 14644207,0.222,Q3,21,44,90,1202,46,89,0.48,27.32,United Kingdom
+313,Defect and Diffusion Forum,journal,ISSN 10120386,0.221,Q3,25,92,563,1233,129,547,0.23,13.4,Switzerland
+314,Indian Journal of Engineering and Materials Sciences,journal,ISSN 09714588,0.219,Q3,18,74,209,1688,120,208,0.56,22.81,India
+315,Guofang Keji Daxue Xuebao/Journal of National University of Defense Technology,journal,ISSN 10012486,0.218,Q3,11,180,576,2782,146,576,0.26,15.46,China
+316,"Proceedings - International Conference on Application of Concurrency to System Design, ACSD",conference and proceeding,ISSN 15504808,0.218,-,13,17,73,347,36,67,0.62,20.41,United States
+317,Nanotechnologies in Russia,journal,"ISSN 19950780, 19950799",0.217,Q3,9,113,283,2942,167,283,0.59,26.04,Germany
+318,"Zairyo/Journal of the Society of Materials Science, Japan",journal,ISSN 05145163,0.216,Q3,20,171,438,2509,81,411,0.17,14.67,Japan
+319,Journal of the Korean Wood Science and Technology,journal,ISSN 10170715,0.215,Q3,4,73,198,1405,74,198,0.36,19.25,South Korea
+320,Journal of New Materials for Electrochemical Systems,journal,ISSN 14802422,0.215,Q3,36,19,136,466,53,136,0.44,24.53,Canada
+321,Anti-Corrosion Methods and Materials,journal,ISSN 00035599,0.215,Q3,25,48,120,1124,61,120,0.45,23.42,United Kingdom
+322,Solid State Phenomena,book serie,ISSN 16629779,0.212,Q3,25,770,2054,9099,688,1973,0.37,11.82,Switzerland
+323,Journal of Nano Research,journal,ISSN 16625250,0.212,Q3,12,77,269,2888,143,262,0.43,37.51,Switzerland
+324,International Journal of Mechanical and Materials Engineering,journal,ISSN 18230334,0.211,Q3,13,1,74,1,42,74,0.39,1,Malaysia
+325,Journal of Nano- and Electronic Physics,journal,ISSN 20776772,0.211,Q3,7,236,474,4153,183,474,0.43,17.6,Ukraine
+326,Steel in Translation,journal,ISSN 09670912,0.211,Q3,5,185,562,2012,86,562,0.16,10.88,United States
+327,Journal of Fire Protection Engineering,journal,"ISSN 1532172X, 10423915",0.21,Q3,19,0,24,0,23,24,0.82,0,United Kingdom
+328,Tekstil ve Muhendis,journal,"ISSN 13007599, 21470510",0.209,Q3,2,30,74,752,12,74,0.11,25.07,Turkey
+329,Restaurator,journal,ISSN 00345806,0.209,Q3,21,17,48,427,37,45,0.46,25.12,Germany
+330,Isi Bilimi Ve Teknigi Dergisi/ Journal of Thermal Science and Technology,journal,ISSN 13003615,0.208,Q3,6,0,45,0,13,45,0.31,0,Turkey
+331,International Journal of Abrasive Technology,journal,"ISSN 17522641, 1752265X",0.207,Q3,10,11,45,259,11,45,0.19,23.55,United Kingdom
+332,Special Topics and Reviews in Porous Media,journal,"ISSN 2151562X, 21514798",0.205,Q3,8,24,92,725,44,92,0.46,30.21,United States
+333,High Temperature Materials and Processes,journal,"ISSN 10933611, 03346455",0.205,Q3,20,117,332,2456,122,328,0.33,20.99,United States
+334,Wuji Cailiao Xuebao/Journal of Inorganic Materials,journal,ISSN 1000324X,0.204,Q3,18,217,699,5477,432,699,0.64,25.24,China
+335,Journal of Experimental Nanoscience,journal,"ISSN 17458099, 17458080",0.204,Q3,16,125,287,3541,200,265,0.75,28.33,United Kingdom
+336,Materials Physics and Mechanics,journal,ISSN 16052730,0.203,Q3,6,65,187,1042,80,183,0.4,16.03,Russian Federation
+337,Jingangshi yu Moliao Moju Gongcheng/Diamond and Abrasives Engineering,journal,ISSN 1006852X,0.203,Q3,7,99,326,1044,60,326,0.19,10.55,China
+338,Multidiscipline Modeling in Materials and Structures,journal,"ISSN 15736113, 15736105",0.203,Q3,11,35,92,1089,48,92,0.42,31.11,United Kingdom
+339,Pollack Periodica,journal,ISSN 17881994,0.202,Q3,7,46,173,661,36,171,0.3,14.37,Hungary
+340,Medziagotyra,journal,ISSN 13921320,0.201,Q3,11,97,247,2026,112,246,0.37,20.89,Lithuania
+341,Cailiao Yanjiu Xuebao/Chinese Journal of Materials Research,journal,ISSN 10053093,0.199,Q3,13,135,359,2854,148,359,0.39,21.14,China
+342,Journal of the Vacuum Society of Japan,journal,"ISSN 18824749, 18822398",0.197,Q3,10,73,279,1135,46,269,0.18,15.55,Japan
+343,Journal of Physical Science,journal,"ISSN 21804230, 16753402",0.196,Q3,6,8,43,170,33,43,0.74,21.25,Malaysia
+344,Sensors and Materials,journal,ISSN 09144935,0.19,Q3,21,89,193,1903,101,176,0.55,21.38,Japan
+345,International Journal of Corrosion,journal,"ISSN 16879325, 16879333",0.19,Q3,7,15,99,570,53,95,0.38,38,United States
+346,Nanoscience and Nanotechnology - Asia,journal,"ISSN 22106820, 22106812",0.189,Q3,6,22,46,870,25,41,0.62,39.55,Netherlands
+347,Inorganic Materials: Applied Research,journal,"ISSN 20751133, 2075115X",0.184,Q3,6,98,270,1571,65,270,0.22,16.03,Germany
+348,International Journal of Nanoscience,journal,ISSN 0219581X,0.181,Q3,16,44,169,870,72,165,0.58,19.77,Singapore
+349,WSEAS Transactions on Applied and Theoretical Mechanics,journal,ISSN 19918747,0.181,Q3,7,23,77,451,32,77,0.38,19.61,Greece
+350,Acta Crystallographica Section E: Structure Reports Online,journal,ISSN 16005368,0.179,Q3,31,386,7344,5168,1203,7329,0.2,13.39,United Kingdom
+351,Acta Microscopica,journal,ISSN 07984545,0.179,Q3,4,16,92,455,10,92,0.14,28.44,Venezuela
+352,Journal of the Chinese Society of Corrosion and Protection,journal,ISSN 10054537,0.178,Q3,12,69,171,1539,50,171,0.29,22.3,China
+353,Cailiao Kexue yu Gongyi/Material Science and Technology,journal,ISSN 10050299,0.176,Q3,10,133,420,2079,100,420,0.21,15.63,China
+354,Materials Research Innovations,journal,"ISSN 14328917, 1433075X",0.176,Q3,40,972,953,15816,365,943,0.36,16.27,United Kingdom
+355,Solid Mechanics and its Applications,book serie,"ISSN 09250042, 18753507",0.176,Q3,10,32,194,1428,27,180,0.14,44.63,Germany
+356,Recent Patents on Materials Science,journal,"ISSN 18744648, 18744656",0.175,Q3,7,24,58,1504,26,56,0.38,62.67,Netherlands
+357,"UPB Scientific Bulletin, Series B: Chemistry and Materials Science",journal,ISSN 14542331,0.175,Q3,8,58,236,1198,80,236,0.29,20.66,Romania
+358,Key Engineering Materials,journal,ISSN 10139826,0.173,Q3,38,2170,9648,24446,1938,9452,0.22,11.27,Switzerland
+359,Revista Latinoamericana de Metalurgia y Materiales,journal,ISSN 02556952,0.172,Q3,4,22,173,565,19,160,0.13,25.68,Venezuela
+360,"Nihon Kikai Gakkai Ronbunshu, A Hen/Transactions of the Japan Society of Mechanical Engineers, Part A",journal,ISSN 03875008,0.169,Q3,17,0,360,0,68,356,0.22,0,Japan
+361,Revista Materia,journal,ISSN 15177076,0.167,Q3,7,107,133,2330,61,117,0.59,21.78,Brazil
+362,International Journal of Green Nanotechnology,journal,"ISSN 19430906, 19430892",0.167,Q3,1,0,13,0,5,11,0.5,0,United Kingdom
+363,Journal of ASTM International,journal,ISSN 1546962X,0.166,Q3,18,0,172,0,50,172,0,0,United States
+364,Computational Condensed Matter,journal,ISSN 23522143,0.164,Q3,1,25,10,964,3,10,0.3,38.56,Netherlands
+365,Materiaux et Techniques,journal,ISSN 00326895,0.163,Q3,4,59,147,1478,38,139,0.15,25.05,France
+366,Case Studies in Nondestructive Testing and Evaluation,journal,ISSN 22146571,0.162,Q3,2,9,15,142,8,14,0.57,15.78,United Kingdom
+367,"Romanian Review Precision Mechanics, Optics and Mechatronics",journal,ISSN 15845982,0.161,Q3,3,67,170,726,8,170,0.05,10.84,Romania
+368,"Proceedings of the Institution of Mechanical Engineers, Part N: Journal of Nanoengineering and Nanosystems",journal,"ISSN 20413092, 17403499",0.161,Q3,7,29,86,536,27,86,0.24,18.48,United States
+369,International Journal of Computational Materials Science and Surface Engineering,journal,"ISSN 17533473, 17533465",0.159,Q3,6,4,21,100,7,21,0.31,25,United Kingdom
+370,International Journal of Materials Engineering Innovation,journal,"ISSN 17572762, 17572754",0.159,Q3,5,21,80,677,17,75,0.11,32.24,United Kingdom
+371,SAMPE Journal,journal,ISSN 00911062,0.158,Q3,21,0,83,0,14,55,0.22,0,United States
+372,IOP Conference Series: Materials Science and Engineering,conference and proceeding,"ISSN 17578981, 1757899X",0.156,-,8,2156,2165,26818,442,2079,0.18,12.44,United Kingdom
+373,Wochenblatt fuer Papierfabrikation,journal,ISSN 00437131,0.156,Q3,9,48,155,100,5,155,0.03,2.08,Germany
+374,Proceedings of the International Symposium on Electrical Insulating Materials,conference and proceeding,-,0.156,-,11,0,130,0,16,129,0.12,0,Japan
+375,Open Materials Science Journal,journal,ISSN 1874088X,0.152,Q3,9,12,32,189,14,31,0.47,15.75,Netherlands
+376,Sen'i Gakkaishi,journal,ISSN 00379875,0.152,Q3,15,128,433,1143,25,396,0.08,8.93,Japan
+377,Kobunshi Ronbunshu,journal,ISSN 03862186,0.15,Q3,14,68,257,1988,52,254,0.24,29.24,Japan
+378,Kung Cheng Je Wu Li Hsueh Pao/Journal of Engineering Thermophysics,journal,ISSN 0253231X,0.149,Q4,16,0,1556,0,325,1556,0.19,0,China
+379,Guti Huojian Jishu/Journal of Solid Rocket Technology,journal,ISSN 10062793,0.148,Q4,9,164,503,1332,105,503,0.2,8.12,China
+380,Mechanics and Mechanical Engineering,journal,ISSN 14281511,0.148,Q4,7,2,37,48,5,35,0.17,24,Poland
+381,Journal of Advanced Microscopy Research,journal,"ISSN 21567573, 21567581",0.147,Q4,4,27,140,656,29,139,0.21,24.3,United States
+382,Proceedings - International Symposium on Advanced Packaging Materials,conference and proceeding,ISSN 15505723,0.145,-,4,0,32,0,7,31,0.23,0,United States
+383,Cement International,journal,ISSN 16106199,0.142,Q4,4,32,122,176,6,118,0.07,5.5,Germany
+384,Przeglad Papierniczy,journal,ISSN 00332291,0.14,Q4,7,91,277,449,34,274,0.16,4.93,Poland
+385,Materials Today Communications,journal,ISSN 23524928,0.138,Q4,2,66,5,2590,4,5,0.8,39.24,United Kingdom
+386,Materials Research Society Symposium - Proceedings,conference and proceeding,"ISSN 2729172, 02729172",0.138,-,38,367,4045,4869,335,3676,0.1,13.27,United States
+387,Korean Journal of Materials Research,journal,ISSN 12250562,0.137,Q4,8,110,348,1974,47,348,0.12,17.95,South Korea
+388,Vibroengineering Procedia,conference and proceeding,ISSN 23450533,0.137,-,2,174,197,1896,20,193,0.1,10.9,Lithuania
+389,Zeitschrift für Kristallographie - New Crystal Structures,journal,ISSN 14337266,0.135,Q4,24,157,710,1608,81,710,0.13,10.24,Germany
+390,Membrane Technology,journal,ISSN 09582118,0.135,Q4,15,12,32,1,5,29,0.09,0.08,Netherlands
+391,Fibre Chemistry (English Translation of Khimicheskie Volokna),journal,ISSN 00150541,0.135,Q4,12,66,241,771,20,225,0.09,11.68,United States
+392,AATCC Review,journal,ISSN 15328813,0.134,Q4,24,17,93,134,18,93,0.25,7.88,United States
+393,International Journal of Nanoparticles,journal,ISSN 17532507,0.132,Q4,10,18,80,851,16,79,0.1,47.28,United Kingdom
+394,European Journal of Scientific Research,journal,"ISSN 1450202X, 1450216X",0.132,Q4,30,0,1076,0,372,1076,0,0,United Kingdom
+395,High Technology Letters,journal,ISSN 10066748,0.132,Q4,9,69,209,1148,13,209,0.05,16.64,China
+396,O Papel (Brazil),journal,ISSN 00311057,0.131,Q4,7,96,307,365,14,304,0.03,3.8,Brazil
+397,Journal of the Institute of Conservation,journal,"ISSN 19455232, 19455224",0.131,Q4,4,17,43,612,8,36,0.26,36,United States
+398,Carbon - Science and Technology,journal,ISSN 09740546,0.13,Q4,3,29,36,658,6,36,0.19,22.69,India
+399,"53rd AIAA/ASME/ASCE/AHS/ASC Structures, Structural Dynamics and Materials Conference 2012",conference and proceeding,-,0.127,-,6,0,647,0,56,646,0,0,United States
+400,Journal of Materials Education,journal,ISSN 07387989,0.126,Q4,4,0,16,0,15,16,0,0,United States
+401,Nanotechnology Perceptions,journal,ISSN 16606795,0.124,Q4,6,0,45,0,4,42,0,0,Switzerland
+402,Nanopages,journal,"ISSN 17874033, 17880718",0.122,Q4,1,0,11,0,1,11,0.17,0,Hungary
+403,Journal of Biorheology,journal,"ISSN 18670466, 18670474",0.122,Q4,7,0,15,0,5,14,0.36,0,Japan
+404,"Bubble Science, Engineering and Technology",journal,ISSN 17588960,0.121,Q4,9,0,12,0,4,12,0.25,0,United Kingdom
+405,Corrosion Management,journal,ISSN 13555243,0.121,Q4,2,6,19,49,1,19,0.08,8.17,United Kingdom
+406,International Heat Treatment and Surface Engineering,journal,"ISSN 17495156, 17495148",0.121,Q4,5,0,106,0,13,92,0.16,0,United Kingdom
+407,Pulp and Paper Canada,journal,ISSN 03164004,0.119,Q4,23,22,56,14,3,56,0.05,0.64,Canada
+408,MATEC Web of Conferences,conference and proceeding,ISSN 2261236X,0.118,-,3,479,1036,5381,69,1001,0.07,11.23,France
+409,Revue des Composites et des Materiaux Avances,journal,ISSN 11697954,0.118,Q4,1,0,74,0,4,68,0.04,0,France
+410,Advanced Structured Materials,book serie,"ISSN 18698433, 18698441",0.117,Q4,5,169,144,8875,13,138,0.09,52.51,United States
+411,Materials China,journal,ISSN 16743962,0.117,Q4,3,106,170,4447,35,170,0.21,41.95,China
+412,Springer Series in Materials Science,book serie,ISSN 0933033X,0.117,Q4,2,252,338,16183,24,304,0.09,64.22,Germany
+413,Masonry International,journal,ISSN 09502289,0.117,Q4,1,7,25,95,3,25,0.06,13.57,United Kingdom
+414,RSC Nanoscience and Nanotechnology,book serie,ISSN 17577136,0.116,Q4,3,34,101,2988,12,93,0.11,87.88,United Kingdom
+415,Corrosion and Materials,journal,ISSN 13261932,0.115,Q4,3,22,96,97,2,63,0.05,4.41,Australia
+416,Ciencia e Tecnologia dos Materiais,journal,ISSN 08708312,0.115,Q4,1,9,76,201,5,72,0.11,22.33,Spain
+417,Metal Powder Report,journal,ISSN 00260657,0.113,Q4,14,39,127,25,12,99,0.07,0.64,United Kingdom
+418,Zhongguo Zaozhi Xuebao/Transactions of China Pulp and Paper,journal,ISSN 10006842,0.113,Q4,7,47,148,377,8,148,0.01,8.02,China
+419,RSC Smart Materials,book serie,ISSN 20460066,0.113,Q4,1,95,50,9668,4,45,0.09,101.77,United Kingdom
+420,Corrosion and Protection,journal,ISSN 1005748X,0.112,Q4,7,0,371,0,27,371,0.07,0,China
+421,"Constitutive Models for Rubber VII - Proceedings of the 7th European Conference on Constitutive Models for Rubber, ECCMR",conference and proceeding,-,0.112,-,2,0,77,0,7,75,0,0,United States
+422,"Proceedings of the 13th International Conference of the European Society for Precision Engineering and Nanotechnology, EUSPEN 2013",conference and proceeding,-,0.112,-,3,0,162,0,14,159,0.09,0,United Kingdom
+423,NEC Technical Journal,journal,ISSN 18805884,0.112,Q4,8,76,135,37,14,131,0.05,0.49,Japan
+424,JEC Composites Magazine,journal,ISSN 1639965X,0.111,Q4,6,74,302,115,9,302,0.03,1.55,France
+425,"Proceedings of the 12th International Conference of the European Society for Precision Engineering and Nanotechnology, EUSPEN 2012",conference and proceeding,-,0.111,-,2,0,259,0,12,256,0,0,Belgium
+426,"ZI, Ziegelindustrie International/Brick and Tile Industry International",journal,ISSN 03410552,0.11,Q4,7,34,105,175,3,105,0.01,5.15,Germany
+427,Vlakna a Textil,journal,ISSN 13350617,0.11,Q4,6,32,84,268,4,83,0.04,8.38,Slovakia
+428,ASM Proceedings of the International Conference: Trends in Welding Research,conference and proceeding,-,0.11,-,7,0,152,0,7,150,0.05,0,United States
+429,International Paperworld IPW,journal,ISSN 16151720,0.108,Q4,5,10,133,22,7,133,0.05,2.2,Germany
+430,Eurasian Chemico-Technological Journal,journal,ISSN 15623920,0.108,Q4,4,9,120,402,9,117,0.05,44.67,Kazakhstan
+431,Corrosion Science and Protection Technology,journal,ISSN 10026495,0.108,Q4,10,63,145,656,14,145,0.1,10.41,China
+432,"2014 IEEE 9th Nanotechnology Materials and Devices Conference, NMDC 2014",conference and proceeding,-,0.107,-,1,0,36,0,1,35,0.03,0,United States
+433,Clay Research,journal,"ISSN 02557193, 09744509",0.106,Q4,2,0,26,0,2,26,0.06,0,India
+434,Lizi Jiaohuan Yu Xifu/Ion Exchange and Adsorption,journal,ISSN 10015493,0.106,Q4,7,52,204,448,12,204,0.03,8.62,China
+435,Insulation - The Energy Efficiency Newsletter,journal,"ISSN 14640112, 14766701",0.106,Q4,1,0,4,0,0,4,0,0,United Kingdom
+436,Biomedical Engineering (New York) (English translation of Meditsinskaya Tekhnika),journal,ISSN 00258075,0.105,Q4,6,57,230,0,12,230,0.06,0,Russian Federation
+437,11th IMEKO TC15 Youth Symposium on Experimental Solid Mechanics 2012,conference and proceeding,-,0.105,-,1,0,52,0,3,51,0,0,Hungary
+438,Australasian Textiles and Fashion,journal,ISSN 13274414,0.105,Q4,1,0,5,0,0,5,0,0,Australia
+439,"2013 IEEE Conference on Reliability Science for Advanced Materials and Devices, RSAMD 2013",conference and proceeding,-,0.105,-,0,0,6,0,0,5,0,0,United States
+440,NanoScience and Technology,book serie,ISSN 14344904,0.104,Q4,2,105,131,7255,8,120,0.02,69.1,Germany
+441,Paper360,journal,ISSN 19333684,0.104,Q4,4,23,103,11,1,103,0.02,0.48,United States
+442,Civil Engineering,journal,ISSN 08857024,0.104,Q4,11,54,237,0,12,236,0.04,0,United States
+443,WIT Transactions on Engineering Sciences,journal,ISSN 17433533,0.104,Q4,7,0,1043,0,39,1012,0.03,0,United Kingdom
+444,"Collection of Technical Papers - AIAA/ASME/ASCE/AHS/ASC Structures, Structural Dynamics and Materials Conference",conference and proceeding,"ISSN 01615750, 02734508",0.104,-,17,0,1133,0,8,1131,0.01,0,United States
+445,Pergamon Materials Series,book serie,ISSN 14701804,0.104,Q4,2,0,15,0,1,13,0,0,United Kingdom
+446,23rd Annual Conference on Recent Advances in Flame Retardancy of Polymeric Materials 2012,conference and proceeding,-,0.103,-,1,0,42,0,2,41,0,0,United States
+447,"Proceedings of the 1st Workshop on Smart Material Interfaces: A Material Step to the Future, SMI 2012",conference and proceeding,-,0.103,-,1,0,8,0,0,7,0,0,United States
+448,"Advances in Mass Data Analysis of Images and Signals in Medicine, Biotechnology, Chemistry and Food Industry - 7th International Conference, MDA 2012, Proceedings",conference and proceeding,-,0.103,-,0,0,9,0,0,7,0,0,Germany
+449,"Materials Science and Technology Conference and Exhibition 2012, MS and T 2012",conference and proceeding,-,0.103,-,2,0,183,0,6,181,0,0,United States
+450,Proceedings - European Conference on Heat Treatment and 21st IFHTSE Congress,conference and proceeding,-,0.103,-,1,0,70,0,1,68,0.01,0,Italy
+451,Concrete (London),journal,ISSN 00105317,0.103,Q4,10,0,364,0,5,364,0.01,0,United Kingdom
+452,COSSMA,journal,ISSN 14397676,0.103,Q4,3,84,134,4,0,8,0,0.05,Germany
+453,"Conference Proceedings - 14th International Conference of the European Society for Precision Engineering and Nanotechnology, EUSPEN 2014",conference and proceeding,-,0.103,-,1,0,194,0,10,191,0.05,0,United Kingdom
+454,"28th Congress of the International Council of the Aeronautical Sciences 2012, ICAS 2012",conference and proceeding,-,0.103,-,2,0,547,0,12,541,0,0,Sweden
+455,"Conference on Optoelectronic and Microelectronic Materials and Devices, Proceedings, COMMAD",conference and proceeding,-,0.103,-,7,0,109,0,3,107,0,0,United States
+456,International Journal of the Society of Materials Engineering for Resources,journal,ISSN 13479725,0.103,Q4,5,0,55,0,4,54,0.06,0,Japan
+457,Cartonnages Emballages Modernes,journal,ISSN 02478390,0.103,Q4,0,0,9,0,0,9,0,0,France
+458,"Environmental Aspects, Applications and Implications of Nanomaterials and Nanotechnology 2013 - Topical Conference at the 2013 AIChE Annual Meeting: Global Challenges for Engineering a Sustainable Future",conference and proceeding,-,0.103,-,0,0,10,0,0,9,0,0,United States
+459,"Energy Materials 2014, Conference Proceedings",conference and proceeding,-,0.103,-,1,0,115,0,1,113,0.01,0,United States
+460,"Materials Science and Technology Conference and Exhibition 2014, MS and T 2014",conference and proceeding,-,0.102,-,1,0,241,0,5,238,0.02,0,United States
+461,Koroze a Ochrana Materialu,journal,"ISSN 0452599X, 18041213",0.102,Q4,0,19,10,324,0,10,0,17.05,Germany
+462,Rinsan Shikenj Oha/Journal of the Hokkaido Forest Products Research Institute,journal,ISSN 0913140X,0.102,Q4,3,0,11,0,0,11,0,0,Japan
+463,Pakistan Journal of Scientific and Industrial Research Series A: Physical Sciences,journal,"ISSN 22216413, 22232559",0.102,Q4,2,23,68,523,2,68,0.02,22.74,Pakistan
+464,Bulletin of Japan Association for Fire Science and Engineering,journal,"ISSN 18835600, 05460794",0.102,Q4,2,0,14,0,0,14,0,0,Japan
+465,International SAMPE Technical Conference,conference and proceeding,-,0.102,-,12,0,985,0,7,978,0.01,0,United States
+466,High-Performance Composites,journal,ISSN 10819223,0.101,Q4,6,91,299,18,3,16,0.2,0.2,United States
+467,Melliand Textilberichte/International Textile Reports,journal,ISSN 09319735,0.101,Q4,10,29,103,75,1,103,0.02,2.59,Germany
+468,Professional Papermaking,journal,ISSN 16120485,0.101,Q4,6,16,24,27,1,24,0.04,1.69,Germany
+469,"Fatigue of Materials II: Advances and Emergences in Understanding, Held During Materials Science and Technology 2012, MS and T 2012",conference and proceeding,-,0.101,-,0,0,20,0,0,18,0,0,United States
+470,"NANOCON 2012 - Conference Proceedings, 4th International Conference",conference and proceeding,-,0.101,-,1,0,156,0,6,155,0,0,Czech Republic
+471,Journal of Packaging Science and Technology,journal,ISSN 09185283,0.101,Q4,2,0,19,0,0,19,0,0,Japan
+472,"Fatigue of Materials III: Advances and Emergences in Understanding - Proceedings of the 3rd Biennial Symposium, held during Materials Science and Technology 2014, MS and T 2014",conference and proceeding,-,0.101,-,0,0,21,0,0,19,0,0,United States
+473,Journal of Textile Engineering,journal,ISSN 13468235,0.101,Q4,9,9,42,85,8,32,0.24,9.44,Japan
+474,Spinnovation,journal,-,0.101,Q4,3,0,22,0,0,22,0,0,Germany
+475,Paper Asia,journal,ISSN 02184540,0.101,Q4,3,0,22,0,0,22,0,0,Singapore
+476,Paperi ja Puu/Paper and Timber,journal,ISSN 00311243,0.101,Q4,19,0,24,0,0,23,0,0,Finland
+477,Timber Bulletin,journal,ISSN 02594323,0.101,Q4,0,4,23,0,0,23,0,0,Switzerland
+478,EMPA Activities,journal,ISSN 16601394,0.101,Q4,1,0,24,0,0,23,0,0,Switzerland
+479,Materials World,journal,ISSN 09678638,0.101,Q4,11,0,212,0,1,204,0.01,0,United Kingdom
+480,Australasian Institute of Mining and Metallurgy Publication Series,conference and proceeding,-,0.101,-,7,0,28,0,0,26,0,0,Australia
+481,Sportswear International,journal,ISSN 10210989,0.101,Q4,1,0,28,0,0,28,0,0,Germany
+482,International Fiber Journal,journal,ISSN 1049801X,0.101,Q4,5,0,30,0,1,28,0,0,United States
+483,Performance Apparel Markets,journal,ISSN 14776456,0.101,Q4,4,0,28,0,0,28,0,0,United Kingdom
+484,13th IMEKO TC15 Youth Symposium on Experimental Solid Mechanics 2014,conference and proceeding,-,0.101,-,0,0,30,0,0,29,0,0,Hungary
+485,Textile Outlook International,journal,ISSN 02684764,0.101,Q4,4,18,90,0,1,71,0,0,United Kingdom
+486,Converter,journal,ISSN 00108189,0.101,Q4,1,35,30,3,0,30,0,0.09,United Kingdom
+487,Materials Engineering and Sciences Division 2013 - Core Programming Area at the 2013 AIChE Annual Meeting: Global Challenges for Engineering a Sustainable Future,conference and proceeding,-,0.101,-,0,0,31,0,0,30,0,0,United States
+488,CARTS International 2014,conference and proceeding,-,0.101,-,0,0,32,0,0,31,0,0,United States
+489,Review of High Pressure Science and Technology/Koatsuryoku No Kagaku To Gijutsu,journal,ISSN 0917639X,0.101,Q4,6,29,90,518,1,65,0,17.86,Japan
+490,Kobunshi,journal,ISSN 04541138,0.101,Q4,2,88,411,670,4,335,0.02,7.61,Japan
+491,NACE - International Corrosion Conference Series,book serie,ISSN 03614409,0.101,Q4,3,424,1597,6758,12,1588,0,15.94,United States
+492,Concrete Producer,journal,"ISSN 10550356, 15280187",0.1,Q4,3,0,41,0,0,41,0,0,United States
+493,Journal of Beijing Institute of Clothing Technology (Natural Science Edition),journal,ISSN 10010564,0.1,Q4,3,47,133,75,3,133,0,1.6,China
+494,Paper Technology,journal,ISSN 09586024,0.1,Q4,12,0,49,0,1,49,0.03,0,United Kingdom
+495,TAPPI European PLACE Conference,conference and proceeding,-,0.1,-,2,0,45,0,0,44,0,0,United States
+496,"51st Annual Conference of the British Institute of Non-Destructive Testing 2012, NDT 2012",conference and proceeding,-,0.1,-,1,0,47,0,0,46,0,0,United Kingdom
+497,Textile Forum,journal,"ISSN 14313510, 14313529",0.1,Q4,1,0,47,0,0,47,0,0,Germany
+498,"Thermal Process Modeling - Proceedings from the 5th International Conference on Thermal Process Modeling and Computer Simulation, ICTPMCS 2014",conference and proceeding,-,0.1,-,1,0,49,0,0,47,0,0,United States
+499,"Proceedings of the 4th Asia-Pacific Conference on FRP in Structures, APFIS 2013",conference and proceeding,-,0.1,-,0,0,50,0,0,49,0,0,Canada
+500,Mathematical Scientist,journal,ISSN 03123685,0.1,Q4,2,19,61,226,4,50,0.09,11.89,United Kingdom
+501,Journal of Explosives Engineering,journal,ISSN 08890668,0.1,Q4,3,0,52,0,0,52,0,0,United States
+502,Lace,journal,ISSN 03083039,0.1,Q4,0,40,52,1,0,52,0,0.03,United Kingdom
+503,Paperboard Packaging,journal,ISSN 00311227,0.1,Q4,2,0,62,0,0,53,0,0,United States
+504,Icon News,journal,ISSN 17498988,0.1,Q4,1,23,53,10,0,53,0,0.43,United Kingdom
+505,"52nd Annual Conference of the British Institute of Non-Destructive Testing 2013, NDT 2013",conference and proceeding,-,0.1,-,1,0,55,0,1,54,0.02,0,United Kingdom
+506,Wire Journal International,journal,ISSN 02774275,0.1,Q4,12,10,57,91,0,57,0,9.1,United States
+507,"29th Congress of the International Council of the Aeronautical Sciences, ICAS 2014",conference and proceeding,-,0.1,-,1,0,559,0,3,556,0.01,0,Germany
+508,Wool Textile Journal,journal,ISSN 10031456,0.1,Q4,4,191,539,335,5,539,0.01,1.75,China
+509,LDB Interior Textiles,journal,ISSN 0892743X,0.1,Q4,0,0,65,0,0,65,0,0,United States
+510,"Journal for Weavers, Spinners and Dyers",journal,ISSN 02677806,0.1,Q4,1,33,112,52,0,66,0,1.58,United Kingdom
+511,"Packaging, Transport, Storage and Security of Radioactive Material",journal,"ISSN 17465109, 17465095",0.1,Q4,1,0,76,0,0,70,0,0,United Kingdom
+512,SpringerBriefs in Applied Sciences and Technology,book serie,"ISSN 21915318, 2191530X",0.1,Q4,1,307,80,5782,0,71,0,18.83,United States
+513,Artes de Mexico,journal,ISSN 03004953,0.1,Q4,1,26,74,0,0,74,0,0,Mexico
+514,Packaging News,journal,ISSN 00482676,0.1,Q4,2,19,76,0,0,76,0,0,Australia
+515,Textiles Panamericanos,journal,ISSN 00493570,0.1,Q4,1,26,80,20,0,80,0,0.77,United States
+516,Surface Design Journal,journal,ISSN 01974483,0.1,Q4,1,0,80,0,0,80,0,0,United States
+517,Conference Record - IEEE Cement Industry Technical Conference,conference and proceeding,"ISSN 07314906, 7314906",0.1,-,8,19,86,68,0,83,0,3.58,United States
+518,Northern Logger and Timber Processor,journal,ISSN 00293156,0.1,Q4,1,43,94,0,0,94,0,0,United States
+519,Pakistan Textile Journal,journal,ISSN 00482757,0.1,Q4,3,35,102,67,1,100,0,1.91,Pakistan
+520,Fiber Society Spring 2014 Technical Conference: Fibers for Progress,conference and proceeding,-,0.1,-,0,0,100,0,0,99,0,0,South Korea
+521,Home Textiles Today,journal,ISSN 01953184,0.1,Q4,1,7,113,0,0,103,0,0,United States
+522,Textile Magazine,journal,ISSN 00405078,0.1,Q4,3,0,104,0,0,104,0,0,India
+523,Technical Textiles International,journal,ISSN 09645993,0.1,Q4,8,6,109,82,0,109,0,13.67,United Kingdom
+524,Package Printing,journal,ISSN 01639234,0.1,Q4,0,10,111,0,0,111,0,0,United States
+525,Concrete Construction - World of Concrete,journal,"ISSN 00105333, 15337316",0.1,Q4,4,0,116,0,0,114,0,0,United States
+526,ATA Journal,journal,ISSN 10158138,0.1,Q4,3,0,115,0,0,115,0,0,Hong Kong
+527,Fiber Society Spring 2013 Technical Conference,conference and proceeding,-,0.1,-,0,0,125,0,0,124,0,0,United States
+528,Journal of the Japan Research Association for Textile End-Uses,journal,ISSN 00372072,0.1,Q4,5,101,371,248,0,144,0,2.46,Japan
+529,"NANOCON 2013 - Conference Proceedings, 5th International Conference",conference and proceeding,-,0.1,-,0,0,145,0,0,144,0,0,Czech Republic
+530,Konstruktion,journal,ISSN 07205953,0.1,Q4,6,0,229,0,1,212,0,0,Germany
+531,Nonwovens Industry,journal,ISSN 01634429,0.1,Q4,4,0,232,0,0,148,0,0,United States
+532,Emballage Digest,journal,ISSN 00136557,0.1,Q4,1,27,150,0,0,150,0,0,France
+533,AES-ATEMA International Conference Series - Advances and Trends in Engineering Materials and their Applications,conference and proceeding,ISSN 19243642,0.1,-,2,18,166,229,0,150,0,12.72,United States
+534,Fiber Society 2012 Spring Conference: Fiber Research for Tomorrow's Applications,conference and proceeding,-,0.1,-,0,0,154,0,0,153,0,0,United States
+535,International Paper Board Industry,journal,ISSN 00208191,0.1,Q4,2,43,160,0,0,160,0,0,United Kingdom
+536,M et T2,journal,ISSN 16378962,0.1,Q4,0,64,182,0,0,161,0,0,France
+537,EUROCORR 2013 - European Corrosion Congress,conference and proceeding,-,0.1,-,0,0,175,0,0,175,0,0,Italy
+538,Textile Network,journal,ISSN 16125096,0.1,Q4,2,0,241,0,0,180,0,0,Germany
+539,Packaging Digest,journal,ISSN 00309117,0.1,Q4,2,20,196,0,0,196,0,0,United States
+540,Twist,journal,ISSN 17590418,0.1,Q4,0,0,199,0,0,199,0,0,United Kingdom
+541,VDI-Z Integrierte Produktion,journal,ISSN 03417255,0.1,Q4,2,0,229,0,0,201,0,0,Germany
+542,CAMX 2014 - Composites and Advanced Materials Expo: Combined Strength. Unsurpassed Innovation.,conference and proceeding,-,0.1,-,0,0,242,0,0,241,0,0,United States
+543,Fire Risk Management,journal,ISSN 17571324,0.1,Q4,3,107,245,62,0,245,0,0.58,United Kingdom
+544,Medical Device and Diagnostic Industry,journal,ISSN 0194844X,0.1,Q4,8,324,1311,3,4,1309,0,0.01,United States
+545,Printwear,journal,ISSN 15227898,0.1,Q4,1,171,492,0,0,492,0,0,United States
+546,TextilWirtschaft,journal,ISSN 0040487X,0.1,Q4,1,206,1015,0,0,1015,0,0,Germany
