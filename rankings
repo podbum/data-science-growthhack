@@ -1,0 +1,55 @@
+setwd("C:\\Mydata");
+data <- read.csv("rankings.csv") 
+attach(data);
+summary(data)
+
+> summary(data)
+      Rank
+ Min.   :  1.0
+ 1st Qu.:137.2
+ Median :273.5
+ Mean   :273.5
+ 3rd Qu.:409.8
+ Max.   :546.0
+
+                                                                                        Title
+ Materials Science                                                                         :  2
+ 11th IMEKO TC15 Youth Symposium on Experimental Solid Mechanics 2012                      :  1
+ 13th IMEKO TC15 Youth Symposium on Experimental Solid Mechanics 2014                      :  1
+ 2013 IEEE Conference on Reliability Science for Advanced Materials and Devices, RSAMD 2013:  1
+ 2014 IEEE 9th Nanotechnology Materials and Devices Conference, NMDC 2014                  :  1
+ 23rd Annual Conference on Recent Advances in Flame Retardancy of Polymeric Materials 2012 :  1
+ (Other)                                                                                   :539
+                        Type                Issn          SJR
+ book serie               : 12   -            : 43   Min.   : 0.1000
+ conference and proceeding: 54   ISSN 00028711:  1   1st Qu.: 0.1172
+ journal                  :480   ISSN 00029726:  1   Median : 0.2695
+                                 ISSN 00035599:  1   Mean   : 0.7537
+                                 ISSN 00068705:  1   3rd Qu.: 0.6755
+                                 ISSN 00088846:  1   Max.   :21.3950
+                                 (Other)      :498
+ SJR.Quartile    H.index       Total.Docs...2015. Total.Docs...3years.
+ - : 54       Min.   :  0.00   Min.   :   0.0     Min.   :   4.0
+ Q1:123       1st Qu.:  5.00   1st Qu.:  17.0     1st Qu.:  83.0
+ Q2:123       Median : 14.00   Median :  59.0     Median : 179.5
+ Q3:123       Mean   : 29.57   Mean   : 164.5     Mean   : 477.7
+ Q4:123       3rd Qu.: 38.00   3rd Qu.: 149.0     3rd Qu.: 426.8
+              Max.   :345.00   Max.   :3373.0     Max.   :9648.0
+
+  Total.Refs.     Total.Cites..3years. Citable.Docs...3years.
+ Min.   :     0   Min.   :    0.0      Min.   :   4.0
+ 1st Qu.:    75   1st Qu.:    8.0      1st Qu.:  76.0
+ Median :  1302   Median :   89.0      Median : 170.5
+ Mean   :  5285   Mean   : 1302.6      Mean   : 462.5
+ 3rd Qu.:  4425   3rd Qu.:  512.2      3rd Qu.: 410.2
+ Max.   :153763   Max.   :51863.0      Max.   :9452.0
+
+ Cites...Doc...2years.  Ref....Doc.                Country
+ Min.   : 0.000        Min.   :  0.000   United States :150
+ 1st Qu.: 0.060        1st Qu.:  2.265   United Kingdom:134
+ Median : 0.510        Median : 22.675   Germany       : 52
+ Mean   : 1.494        Mean   : 25.030   Netherlands   : 47
+ 3rd Qu.: 1.538        3rd Qu.: 34.075   China         : 26
+ Max.   :32.280        Max.   :349.330   Japan         : 23
+                                         (Other)       :114
+>
